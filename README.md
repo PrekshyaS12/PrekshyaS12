@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋 I'm Prekshya
 
-<!--
-**PrekshyaS12/PrekshyaS12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Scientist  
+📍 Based in Nepal  
+📊 Passionate about Machine Learning, NLP & Deep Learning  
+📈 Skilled in Data Visualization & Business Intelligence  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Technical Skills
+
+### 💻 Programming
+- Python
+- SQL
+
+### 📊 Data Analysis & Visualization
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Power BI
+- Excel
+
+### 🤖 Machine Learning
+- Regression Models
+- Classification Models
+- Model Evaluation (Accuracy, F1-score, ROC-AUC)
+- Feature Engineering
+- Data Preprocessing
+
+### 🧠 Currently Learning
+- Natural Language Processing (NLP)
+- Deep Learning (TensorFlow / PyTorch)
+- Neural Networks
+
+---
+
+## 🚀 Featured Projects
+
+- 🏨 Hotel Booking Analysis (EDA + Insights)
+- 🚢 Titanic Survival Prediction (ML Model Comparison)
+- 📊 Sales Dashboard (Power BI)
+- 🧠 (Upcoming) NLP Sentiment Analysis Project
+
+---
+
+## 📫 Connect With Me
+LinkedIn: ([your link](https://www.linkedin.com/in/prekshya-siwakoti-31ba1433b/))
+Email: (prekshyasiwakoti@gmail.com)

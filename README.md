@@ -1,13 +1,13 @@
 # Hi 👋 I'm Prekshya
 
-🎯 Aspiring Data Scientist  
-📍 Based in Nepal  
-📊 Passionate about Machine Learning, NLP & Deep Learning  
-📈 Skilled in Data Visualization & Business Intelligence  
+ Aspiring Data Scientist  
+ Based in Nepal  
+ Passionate about Machine Learning, NLP & Deep Learning  
+ Skilled in Data Visualization & Business Intelligence  
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 ### Programming
 - Python
@@ -35,7 +35,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - Hotel Booking Analysis (EDA + Insights)
 - Titanic Survival Prediction (ML Model Comparison)

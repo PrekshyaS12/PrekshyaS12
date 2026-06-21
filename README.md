@@ -2,7 +2,7 @@
 
  Aspiring Data Scientist  
  Based in Nepal  
- Passionate about Machine Learning, NLP & Deep Learning  
+ Passionate about Machine Learning, NLP & Deep Learning, Computer Vision, LLM, Agentic AI
  Skilled in Data Visualization & Business Intelligence  
 
 ---
